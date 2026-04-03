@@ -1,1 +1,2 @@
 # Student-Collaboration-Platform
+Campus Connect is a modern multi-page web application designed to enhance student collaboration within a university. The platform allows users to securely log in, explore a personalized dashboard, and access shared academic resources. It focuses on creating a connected learning environment where students can interact, track their progress, and efficiently manage study materials. Developed using HTML, CSS, and JavaScript, the project demonstrates frontend design, navigation flow, and user interaction in a real-world academic use case.
